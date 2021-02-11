@@ -1,0 +1,3 @@
+export const STORE_DATA="STORE_DATA";
+export const LIST_OF_PRODUCTS = "LIST_OF_PRODUCTS";
+export const SINGLE_PRODUCT = "SINGLE_PRODUCT";
